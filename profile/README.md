@@ -1,12 +1,12 @@
-## Hi there 👋
+##                Chào đằng ấy.              
 
 <!--
 
-**Here are some ideas to get you started:**
+Đây là vài ý tưởng để bắt đầu:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+"Sự ra đời của những người khổng lồ... "...những người tham gia"-- "Tổ chức của các bạn đang nói về cái gì?
+Hướng dẫn đóng góp - Làm thế nào để cộng đồng có thể tham gia?
+Nguồn lực hữu ích - Cộng đồng có thể tìm bác sĩ của bạn ở đâu? Còn điều gì khác mà cộng đồng nên biết không?
+Sự thật thú vị - Đội của anh ăn gì cho bữa sáng?
+Hãy nhớ rằng, bạn có thể làm những điều hùng mạnh với sức mạnh của https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
